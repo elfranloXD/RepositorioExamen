@@ -1,0 +1,66 @@
+nav{
+    text-align: center;
+}
+ul#menu {
+    align-items: center;
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+    
+}
+
+ul#menu li a {
+    background-color:rgb(0, 225, 255);
+    color: rgb(0, 26, 255);
+    padding: 1px 60px;
+    text-decoration: none;
+    border-radius: 5px;
+    
+}
+
+ul#menu li a:hover {
+    background-color:rgb(110, 68, 209);
+}
+
+hr{
+    border: 1px solid rgb(110, 68, 209);
+}
+
+p{
+    color: rgb(0, 26, 255);
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    width: 75%;
+}
+
+td{
+    width: 25%;
+}
+.helpdesk{
+    padding-bottom: 185px;
+}
+
+.helpdeskDE{
+    padding-bottom: 415px;
+}
+
+.helpdeskP{
+    padding-bottom: 250px;
+}
+
+.center{
+    text-align: center;
+}
+
+.footer{
+    background-color: rgb(0, 225, 255);
+    text-align: center;
+}
+
